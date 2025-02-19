@@ -11,7 +11,7 @@ from operator import itemgetter
 from urllib.parse import parse_qsl
 from django.utils import timezone
 
-bot_token = '7649439344:AAF5KRJoVzjfhg4Bw4G1zKewDhKZisBZp_E'
+bot_token = ''
 
 
 def check_webapp_signature(token, init_data):
